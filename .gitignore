@@ -21,3 +21,20 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Ambiente de desarrollo local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos de registro
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+/.idea
+/.vscode
+
+# Otros archivos y directorios que deseas ignorar
